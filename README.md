@@ -29,3 +29,4 @@ learning algorithms that’s best fit for the above case.
 
 
 # Project Snippet:
+![image](https://user-images.githubusercontent.com/123532199/228266227-63112e99-af95-4efb-8f69-bdca69bbeb1f.png)
