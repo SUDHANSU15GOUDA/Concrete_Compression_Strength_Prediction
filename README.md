@@ -25,6 +25,7 @@ learning algorithms that’s best fit for the above case.
 
 # User Input / Output Workflow:
 
+![I-O Flow](https://user-images.githubusercontent.com/123532199/228271006-a57e95fe-502b-48a5-974c-40dea6fa108d.jpg)
 
 
 
