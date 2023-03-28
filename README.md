@@ -18,6 +18,7 @@ Feature Engineering, Model Building and Model Testing. Try out different machine
 learning algorithms that’s best fit for the above case.
 
 # WorkFlow of The Project:
+![Process Flow](https://user-images.githubusercontent.com/123532199/228265721-f4f5c0d3-5437-4576-bdb5-c8e3d2889a7f.jpg)
 
 
 
